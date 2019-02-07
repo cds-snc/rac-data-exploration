@@ -1,2 +1,13 @@
-# racc-data-exploration
-Code to explore cyber reporting data
+# Code to explore cyber reporting data
+
+## Install
+
+```
+pipenv install
+```
+
+## Run Jupyter
+
+```
+pipenv run jupyter notebook
+```
