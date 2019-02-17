@@ -9,6 +9,8 @@ sklearn = "*"
 numpy = "*"
 pandas = "*"
 praw = "*"
+nltk = "*"
+seaborn = "*"
 
 [dev-packages]
 
